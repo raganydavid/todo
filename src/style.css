@@ -1,0 +1,10 @@
+.about {
+	border-top: solid 3px red;
+    border-bottom: solid 3px green;
+    text-align: center;
+    position: fixed;
+    top: 50px;
+    right: -230px;
+    width: 600px;
+    transform: rotate(45deg);
+}
